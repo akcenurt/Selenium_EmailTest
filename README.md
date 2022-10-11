@@ -1,1 +1,1 @@
-# Selenium_EmailTest
+This simple test is able to log in to an email, send an email (to itslef), wait for the email, response by attaching a file from a local disk, wait for it again and then it asserts, if the response contains the attachment. 
